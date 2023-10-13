@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #fefefe;
+}
+
+header{
+    margin: 0;
+    padding: 0;
+    background-color: #687EFF;
+    padding: 16px;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+main{
+    margin: 16px;
+}
+
+.okenka{
+    background-color: #80B3FF;
+    padding: 16px;
+}
+
+.bublina{
+    background-color: #B6FFFA;
+    padding: 16px;
+    border: 0px solid black;
+    border-radius: 10px;
+    margin: 16px;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
